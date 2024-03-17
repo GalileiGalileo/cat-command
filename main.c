@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// TODO add -T, -E, strcmp custom function
+
 int main(int argc, char *argv[]) {
   if (argc >= 2) {
     FILE *file;
